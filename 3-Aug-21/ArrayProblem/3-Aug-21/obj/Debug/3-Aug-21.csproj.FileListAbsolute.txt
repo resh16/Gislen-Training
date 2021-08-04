@@ -1,0 +1,7 @@
+E:\.NET Training\3-Aug-21\3-Aug-21\bin\Debug\3-Aug-21.exe.config
+E:\.NET Training\3-Aug-21\3-Aug-21\bin\Debug\3-Aug-21.exe
+E:\.NET Training\3-Aug-21\3-Aug-21\bin\Debug\3-Aug-21.pdb
+E:\.NET Training\3-Aug-21\3-Aug-21\obj\Debug\3-Aug-21.csproj.AssemblyReference.cache
+E:\.NET Training\3-Aug-21\3-Aug-21\obj\Debug\3-Aug-21.csproj.CoreCompileInputs.cache
+E:\.NET Training\3-Aug-21\3-Aug-21\obj\Debug\3-Aug-21.exe
+E:\.NET Training\3-Aug-21\3-Aug-21\obj\Debug\3-Aug-21.pdb
