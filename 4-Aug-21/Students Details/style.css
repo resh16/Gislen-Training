@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#all{
+    border: 10px black ridge;
+    border-radius: 20px;
+    width: 350px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    overflow: auto;
+
+}
+
+#registerbox{
+    border: thick black solid;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: tan;
+   
+}
+
+#enrolled{
+    background-color: tan;
+    padding: 5px;
+}
+
+th{
+    background-color:burlywood;
+    border: thin black ridge;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+#zoozle{
+    border: thin black solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+button{
+    width: 48%;
+}
+input{
+    width: 98%;
+}
+
+#add,#clear{
+    color: cornsilk;
+    background-color: darkgoldenrod;
+
+}
+
+h1,h2{
+    padding: 0px;
+    margin: 0px;
+}
