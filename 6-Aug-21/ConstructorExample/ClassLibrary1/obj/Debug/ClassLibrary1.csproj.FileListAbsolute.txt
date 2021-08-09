@@ -1,6 +1,0 @@
-E:\.NET Training\ConstructorExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
-E:\.NET Training\ConstructorExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
-E:\.NET Training\ConstructorExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-E:\.NET Training\ConstructorExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-E:\.NET Training\ConstructorExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-E:\.NET Training\ConstructorExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
